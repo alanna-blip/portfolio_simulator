@@ -1,0 +1,9 @@
+*.json
+fine-doodad-*.json
+.venv/
+*.pyc
+__pycache__/
+.streamlit/
+.env
+app0828.py
+test_gspread.py
